@@ -17,7 +17,7 @@ var storymap_data = {
         caption: "About The Grand Budapest Hotel"
       }
     }, {
-      date: "1932",
+      date: "2014",
       text: {
         headline: "The Grand Budapest Hotel",
         text: "<p> The Grand Budapest Hotel was owned by Monsieur Gustave. By his management, the hotel had its glory days. Gustave courts a series of aging, blonde women who all flock to the hotel to enjoy his exceptional service. One of these, Madame D, spends the night with Gustave prior to her departure. </p>"
@@ -37,7 +37,7 @@ var storymap_data = {
         caption: "Görlitz Department Store"
       }
     }, {
-      date: "1965",
+      date: "2014",
       text: {
         headline: "Check-Point 19:",
         text: "<p>M.Gustave is informed that Madame D has died under mysterious circumstances. He and Zero race to her wake where he learns that she bequeathed him a valuable painting in her will. This enrages her family, all of whom hoped to inherit it, especially her son, Dmitri Desgoffe-und-Taxis. Gustave and Zero take the painting and hide it in a safe at the Grand Budapest. He is then arrested and framed for the murder of Madame D. The prison is Check-Point 19. </p> "
