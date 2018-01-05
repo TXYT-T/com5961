@@ -2,5 +2,6 @@
 
 And I have added bsysin@gmail.com to Google analytics and Google Optimize account.
 
+Account in Drupal
 user: Bernard
-password: comm5961
+<br>password: comm5961
